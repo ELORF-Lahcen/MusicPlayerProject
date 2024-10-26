@@ -61,4 +61,4 @@ To run this project locally, follow these steps:
 
 ## 👤 Author
 
-- **Lahcen ELORF** - [elorf-lahcen](https://github.com/elorf-lahcen)
+- **Lahcen ELORF** - [ELORF-Lahcen](https://github.com/elorf-lahcen)
