@@ -27,8 +27,8 @@ The MusicPlayerProject is a web-based music player that showcases a beautiful us
 
 ## 🛠️ Technologies Used
 
-- **HTML** for the structure of the web pages.
-- **CSS** for styling the application.
+- **HTML5** for the structure of the web pages.
+- **CSS3** for styling the application.
 - **JavaScript** for interactivity and functionality.
 
 ---
